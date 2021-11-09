@@ -1,0 +1,14 @@
+[
+    {
+      "name": "Ultimate Minecraft Trivia Game",
+      "live": "https://seir-penguin-project-1-one.vercel.app/",
+      "git": "https://github.com/knguyen111601/seir_penguin_project_1",
+      "image": "https://i.imgur.com/7MwlE0e.png"
+    },
+    {
+      "name": "Binge",
+      "live": "https://kn-penguin-p2.herokuapp.com/",
+      "git": "https://github.com/knguyen111601/penguin_project_2",
+      "image": "https://i.imgur.com/OJFP8Ym.jpg"
+    }
+  ]
